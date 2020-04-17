@@ -1,7 +1,7 @@
-Moodle Mobile
+Moodle Desktop
 =================
 
-This is the primary repository of source code for the official Moodle Mobile app.
+This is the primary repository of source code for the official Moodle Desktop app.
 
 * [User documentation](http://docs.moodle.org/en/Moodle_Mobile)
 * [Developer documentation](http://docs.moodle.org/dev/Moodle_Mobile)
